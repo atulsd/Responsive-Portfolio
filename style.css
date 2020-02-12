@@ -3,10 +3,15 @@ body {
 }
 main {
   margin-left: 50px;
+  margin-top: 20px;
   border-width: 30px;
   border-style: groove;
   max-width: 540px;
   background-color: wheat;
+  margin-bottom: 100px;
+  padding-left: 20px;
+  padding-right: 20px;
+  padding-bottom: 20px;
 }
 
 footer {
