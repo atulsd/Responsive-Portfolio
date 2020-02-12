@@ -1,5 +1,12 @@
+body {
+  background-color: #db8e299c;
+}
 main {
   margin-left: 50px;
+  border-width: 30px;
+  border-style: groove;
+  max-width: 540px;
+  background-color: wheat;
 }
 
 footer {
