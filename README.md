@@ -28,6 +28,8 @@ Navigate to following folder
 https://github.com/atulsd/Responsive-Portfolio
 Clone the Repo
 
+https://atulsd.github.io/Responsive-Portfolio/
+
 # Usage:
 
 This project is about creating Personal Portfolio using Bootstrap for mobile responsiveness.
