@@ -15,17 +15,8 @@ main {
 }
 
 footer {
-  /*position: fixed;
-  bottom: 0;
-
-  height: 40px;
-  width: 100%;*/
   background: rgb(250, 248, 248);
   border: 3px solid rgb(250, 248, 248);
-  /*padding-left: 500px;
-  padding-top: 10px;
-  text-emphasis-color: red;
-  color: black;*/
 }
 
 /*
