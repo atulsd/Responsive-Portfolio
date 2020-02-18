@@ -39,11 +39,11 @@ This project is about creating Personal Portfolio using Bootstrap for mobile res
 
 # Screenshots
 
-![Screenshot](/images/index.png)
+![Screenshot](Images/index.png)
 
-![Screenshot](/images/portfolio.png)
+![Screenshot](Images/portfolio.png)
 
-![Screenshot](/images/contact.png)
+![Screenshot](Images/contact.png)
 
 # References:
 
